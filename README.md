@@ -13,7 +13,7 @@ This document provides a comprehensive reference for sensors used in this work, 
 | E-201-C (Used in this work) | pH | ≤ 10 Ω* | AC 220V ±22V (with pH meter) | ±1999 mV / 0-14 pH | [INESA Product Center](https://www.inesarex.com/products_Detail/52.html) |
 | TSC1021 | Current | ≤ 10 Ω* | 2.8V to 30V (common-mode) / 5V supply | Ground-referenced output, internally fixed gain 20/50 V/V | [STMicroelectronics Datasheet](https://www.st.com/resource/en/datasheet/tsc1021.pdf) |
 | EX-501 | Vibration | ≤ 100 Ω* | 12 to 24 VDC ±10% | 0 to 5 V (voltage output) / 4 to 20 mA (current output) | [KEYENCE Product Page](https://www.keyence.com/products/sensor/proximity/ex-500/) |
-| 5TC-GG-K-20-36 | Temperature | ≤ 50 Ω | Passive (thermocouple, no external supply) | Type K: 0 to 482°C measurement range, output voltage ~40 µV/°C | [OMEGA Datasheet](https://www.omega.com/en-us/temperature-measurement/thermocouple-wire/p/5TC-GG-K-20-36) |
+| 5TC-GG-K-20-36 | Temperature | ≤ 50 Ω* | Passive (thermocouple, no external supply) | Type K: 0 to 482°C measurement range, output voltage ~40 µV/°C | [OMEGA Datasheet](https://www.omega.com/en-us/temperature-measurement/thermocouple-wire/p/5TC-GG-K-20-36) |
 | Zemic L6D | Force | 350 Ω | 5 to 12 VDC (recommended), max 18 VDC | 2.0 ±0.2 mV/V (rated output) | [Zemic Datasheet](https://www.zemic.com.cn/en/product/load-cells/single-point/l6d/) |
 | MPM160 | Pressure | 4 kΩ | ≤10 VDC or ≤3.0 mADC | mV output (Wheatstone bridge) | [MicroSensor Datasheet](https://www.microsensorcorp.com/Product/MPM160.html) |
 | GZP193-201GF01 | Pressure | 5 kΩ | ≤16 V (constant voltage) / ≤0.94 mA (constant current) | Temperature-compensated voltage output (ratio metric to supply) | [Genuine Datasheet](https://www.genuine.com.cn/product/87.html) |
