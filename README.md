@@ -11,7 +11,7 @@ This document provides a comprehensive reference for sensors used in this work, 
 | E-201-C (Used in this work) | pH | ≤ 10 Ω* | [INESA Product Center](https://www.inesarex.com/products_Detail/52.html) |
 | TSC1021 | Current | ≤ 10 Ω* | [STMicroelectronics Datasheet](https://www.st.com/resource/en/datasheet/tsc1021.pdf) |
 | EX-501 | Vibration | ≤ 100 Ω* | [KEYENCE Product Page](https://www.keyence.com/products/sensor/proximity/ex-500/) |
-| 5TC-GG-K-20-36 | Temperature | ≤ 50 Ω | [OMEGA Datasheet](https://www.omega.com/en-us/temperature-measurement/thermocouple-wire/p/5TC-GG-K-20-36) |
+| 5TC-GG-K-20-36 | Temperature | ≤ 50 Ω* | [OMEGA Datasheet](https://www.omega.com/en-us/temperature-measurement/thermocouple-wire/p/5TC-GG-K-20-36) |
 | Zemic L6D | Force | 350 Ω | [Zemic Datasheet](https://www.zemic.com.cn/en/product/load-cells/single-point/l6d/) |
 | MPM160 | Pressure | 4 kΩ | [MicroSensor Datasheet](https://www.microsensorcorp.com/Product/MPM160.html) |
 | GZP193-201GF01 | Pressure | 5 kΩ | [Genuine Datasheet](https://www.genuine.com.cn/product/87.html) |
